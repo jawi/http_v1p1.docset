@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+    <string>HTTP_1p1</string>
+	<key>CFBundleName</key>
+    <string>HTTP v1.1 (rfc2616)</string>
+	<key>DocSetPlatformFamily</key>
+	<string>RFC</string>
+    <key>dashIndexFilePath</key>
+    <string>rfc2616.html</string>
+	<key>isDashDocset</key>
+	<true/>
+</dict>
+</plist>
